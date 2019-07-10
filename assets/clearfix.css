@@ -1,0 +1,5 @@
+.clearfix::before {
+    content: "";
+    clear: both;
+    display: table;
+}
